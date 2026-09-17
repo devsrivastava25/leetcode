@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+        """ done using DNF dutch national flag can be done using counting sort too but its time complexity would be logn + k"""
         low,mid = 0,0
        
         high = len(nums)-1
