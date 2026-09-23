@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/devsrivastava25/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/devsrivastava25/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devsrivastava25/leetcode/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/devsrivastava25/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/devsrivastava25/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/devsrivastava25/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devsrivastava25/leetcode/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/devsrivastava25/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -29,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/devsrivastava25/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/devsrivastava25/leetcode/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/devsrivastava25/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
