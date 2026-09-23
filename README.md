@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devsrivastava25/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devsrivastava25/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devsrivastava25/leetcode/tree/master/0042-trapping-rain-water) |
+| [0643-maximum-average-subarray-i](https://github.com/devsrivastava25/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/devsrivastava25/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devsrivastava25/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devsrivastava25/leetcode/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/devsrivastava25/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/devsrivastava25/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
