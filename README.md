@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devsrivastava25/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/devsrivastava25/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Math
+|  |
+| ------- |
+| [3492-maximum-containers-on-a-ship](https://github.com/devsrivastava25/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 <!---LeetCode Topics End-->
