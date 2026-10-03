@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/devsrivastava25/leetcode/tree/master/0009-palindrome-number) |
 | [3492-maximum-containers-on-a-ship](https://github.com/devsrivastava25/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 ## Greedy
 |  |
