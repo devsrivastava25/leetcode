@@ -1,4 +1,5 @@
 class Solution(object):
+    # well weare tracking the elements which are not include in window 
     def maxScore(self, cardPoints, k):
         n = len(cardPoints)
         total = sum(cardPoints)
