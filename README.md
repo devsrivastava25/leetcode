@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/devsrivastava25/leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/devsrivastava25/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/devsrivastava25/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2235-add-two-integers](https://github.com/devsrivastava25/leetcode/tree/master/2235-add-two-integers) |
 | [3492-maximum-containers-on-a-ship](https://github.com/devsrivastava25/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 ## Greedy
 |  |
