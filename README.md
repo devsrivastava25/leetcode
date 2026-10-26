@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/devsrivastava25/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/devsrivastava25/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/devsrivastava25/leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/devsrivastava25/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/devsrivastava25/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/devsrivastava25/leetcode/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/devsrivastava25/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/devsrivastava25/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/devsrivastava25/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/devsrivastava25/leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/devsrivastava25/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Design
 |  |
 | ------- |
