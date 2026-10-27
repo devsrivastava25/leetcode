@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devsrivastava25/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/devsrivastava25/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devsrivastava25/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devsrivastava25/leetcode/tree/master/0018-4sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devsrivastava25/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/devsrivastava25/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devsrivastava25/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devsrivastava25/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devsrivastava25/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/devsrivastava25/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/devsrivastava25/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/devsrivastava25/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/devsrivastava25/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/devsrivastava25/leetcode/tree/master/0695-max-area-of-island) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devsrivastava25/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
